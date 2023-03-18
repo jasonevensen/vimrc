@@ -1,5 +1,5 @@
-"Author: Jason Evensen"
-"Date: 03-18-2023"
+"-- Author: Jason Evensen --"
+"-- Date 03-18-2023 --"
 
 set nocompatible
 filetype on
